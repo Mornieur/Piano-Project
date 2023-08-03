@@ -4,7 +4,7 @@ This is a simple piano project that allows users to interact with a virtual pian
 
 ## Demo
 
-You can see a live demo of the project [here](https://mornieur.github.io/Piano-Project/).
+You can see a live demo of the project [here](https://mornieur.github.io/Piano-Project/](https://piano-project.vercel.app/).
 
 ## Screenshots
 
