@@ -1,6 +1,6 @@
 # Piano Project
 
-This is a simple piano project that allows users to interact with a virtual piano using their mouse clicks. It is built with HTML, CSS, and JavaScript.
+This is a simple piano project that allows users to interact with a virtual piano using their mouse clicks. It is built with HTML, SCSS, and JavaScript.
 
 ## Demo
 
