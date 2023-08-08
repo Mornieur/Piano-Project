@@ -1,14 +1,19 @@
-# Piano Project
+<div align='center'>
+  <h1 >🎹 Welcome to Piano Project!</h1>
+</div>
+
+<br />
+
+<div align='center'>
+
+  <img src="./assets/piano.png" alt='project image' width='600'  />
+</div>
 
 This is a simple piano project that allows users to interact with a virtual piano using their mouse clicks. It is built with HTML, SCSS, and JavaScript.
 
 ## Demo
 
 You can see a live demo of the project: https://piano-project.vercel.app
-
-## Screenshots
-
-_Insert some project screenshots here._
 
 ## Features
 
@@ -20,5 +25,3 @@ _Insert some project screenshots here._
 1. Access the live demo [here](https://mornieur.github.io/Piano-Project/).
 
 2. Click on the piano keys to play different notes. You can experiment and create your own melodies!
-
-
