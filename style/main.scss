@@ -128,3 +128,18 @@ body {
 .key {
   transition: transform 80ms ease;
 }
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $base-color;
+  color: $white;
+  padding: 20px 0;
+  width: 100%;
+
+  h1 {
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+}
